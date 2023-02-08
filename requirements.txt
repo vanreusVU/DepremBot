@@ -1,0 +1,3 @@
+locationtagger==0.0.1
+pandas==1.1.5
+snscrape==0.3.4
